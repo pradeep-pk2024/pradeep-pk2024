@@ -1,13 +1,17 @@
-**pradeep-pk2024/pradeep-pk2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Pradeep Kumar
+### Full Stack Developer Learner from India 🇮🇳
 
-Here are some ideas to get you started:
+🌱 Currently learning: HTML, CSS, JavaScript, Node.js
+💻 Interested in: Web Development & Full Stack Development
+🚀 Goal: Become a Full Stack Developer
+📫 Reach me: pradeepkirar210@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Git & GitHub
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradeep-pk2024&show_icons=true)
